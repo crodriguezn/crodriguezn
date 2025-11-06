@@ -53,7 +53,7 @@ A lo largo de mi trayectoria he desarrollado y mantenido múltiples sistemas ins
 
 #### 🏛️ Sistemas Académicos y Universitarios
 Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módulos de gestión académica, docentes, estudiantes y vinculación:
-- **SAI / SAI-OLD / BUINCO_SAI / UNEMI_VINCULACION_OLD** → Sistema Integrado Académico completo.
+- **SAI / BUINCO_SAI / UNEMI_VINCULACION** → Sistema Integrado Académico completo.
   - 🧰 *Django, React, PostgreSQL, Redis, Moodle API.*
 - **FRONTEND-VINCULACION-UNEMI** → Interfaz moderna para el sistema de vinculación institucional.
   - ⚙️ *AstroJS, TailwindCSS, API REST.*
@@ -105,7 +105,7 @@ Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módu
 
 <p align="center">
   <a href="https://github.com/RunaCode"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/crodriguezn-ec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carlos.rodriguez@runacode.dev"><img src="https://img.shields.io/badge/Email-carlos.rodriguez@runacode.dev-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
