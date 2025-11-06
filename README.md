@@ -47,18 +47,40 @@ Trabajo actualmente en la **Universidad Estatal de Milagro (UNEMI)** y soy funda
 
 ---
 
-### 🚀 Proyectos Destacados
+### 💼 Experiencia en Proyectos
 
-🔹 **Sistema de Gestión Administrativa — Club Nacional**  
-> Desarrollo integral de un sistema web administrativo y financiero con control de socios, pagos, reportes y seguridad avanzada.  
-> _Tecnologías: Django, PostgreSQL, Bootstrap, Redis._
+A lo largo de mi trayectoria he desarrollado y mantenido múltiples sistemas institucionales y empresariales, destacando:
 
-🔹 **Sistema Académico — UNEMI**  
-> Solución institucional para gestión académica, docentes, calificaciones, certificados digitales y firmas electrónicas.  
-> _Integración con Moodle y servicios externos._
+#### 🏛️ Sistemas Académicos y Universitarios
+Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módulos de gestión académica, docentes, estudiantes y vinculación:
+- **SAI / SAI-OLD / BUINCO_SAI / UNEMI_VINCULACION_OLD** → Sistema Integrado Académico completo.
+  - 🧰 *Django, React, PostgreSQL, Redis, Moodle API.*
+- **FRONTEND-VINCULACION-UNEMI** → Interfaz moderna para el sistema de vinculación institucional.
+  - ⚙️ *AstroJS, TailwindCSS, API REST.*
 
-🔹 **Plataforma de Reportes Dinámicos**  
-> Motor configurable de reportes PDF/Excel/CSV con filtros personalizados y clases base reutilizables en Django.  
+#### 💼 Sistemas Administrativos y de Gestión
+- **PROJECT-MS** → Sistema de gestión de proyectos con arquitectura modular.
+  - 🧰 *TypeScript, Django, PostgreSQL.*
+- **INNOTECH-SOLUTIONS** → Plataforma de servicios empresariales.
+  - ⚙️ *TypeScript, ReactJS, NodeJS.*
+- **ANT_WEBSERVICE_MATRICULACION** → Integración con servicios externos de matriculación.
+  - 🔗 *Python, Django REST Framework.*
+- **PT_2025_VGOMEZ** → Automatización institucional en Django.
+  - 🧩 *Python, PostgreSQL.*
+- **SISTEMA DE GESTIÓN ADMINISTRATIVA (Club Nacional)** → Proyecto destacado desarrollado por RunaCode.
+  - 💼 *Django, Bootstrap, PostgreSQL.*
+
+#### 🏋️‍♂️ Sistemas Comerciales y Deportivos
+- **SIFTI** → Sistema Integrado Fitness con control de socios, membresías y asistencias.
+  - ⚙️ *HTML5, Bootstrap, Django REST API.*
+- **CROSSFIT-MILAGRO** → Sistema de control de BOX CrossFit.
+  - 🧰 *PHP, MySQL, HTML.*
+
+#### 🧠 Proyectos de Innovación y Experimentación
+- **STACK_IA** → Prototipo de inteligencia artificial en Python.
+- **LABCLIENTEWEB** → Laboratorio cliente-servidor (PHP).
+- **EPUNEMI** → Sistema web institucional (HTML).
+- **LUIS-RODRIGUEZ-EC** → Página web personal / portafolio.
 
 ---
 
@@ -83,7 +105,7 @@ Trabajo actualmente en la **Universidad Estatal de Milagro (UNEMI)** y soy funda
 
 <p align="center">
   <a href="https://github.com/RunaCode"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/crodriguezn-ec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carlos.rodriguez@runacode.dev"><img src="https://img.shields.io/badge/Email-carlos.rodriguez@runacode.dev-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
