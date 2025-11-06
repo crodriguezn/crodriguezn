@@ -83,7 +83,7 @@ Trabajo actualmente en la **Universidad Estatal de Milagro (UNEMI)** y soy funda
 
 <p align="center">
   <a href="https://github.com/RunaCode"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/crodriguezn-ec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carlos.rodriguez@runacode.dev"><img src="https://img.shields.io/badge/Email-carlos.rodriguez@runacode.dev-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
