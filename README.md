@@ -84,15 +84,6 @@ Soluciones creadas para la **Universidad Estatal de Milagro (UNEMI)**, con módu
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=crodriguezn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crodriguezn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🏗️ Actividad Reciente
 
 <p align="center">
